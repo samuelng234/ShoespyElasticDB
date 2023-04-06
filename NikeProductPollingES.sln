@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikeProductPollingES", "NikeProductPollingES\NikeProductPollingES.csproj", "{1E1CBD7E-B62F-43AB-BB9F-173358A01A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E1CBD7E-B62F-43AB-BB9F-173358A01A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1CBD7E-B62F-43AB-BB9F-173358A01A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1CBD7E-B62F-43AB-BB9F-173358A01A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1CBD7E-B62F-43AB-BB9F-173358A01A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4605509B-C095-4A71-B9F4-8D659CE1AF9F}
+	EndGlobalSection
+EndGlobal
